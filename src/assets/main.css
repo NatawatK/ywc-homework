@@ -4,19 +4,13 @@
 
 @font-face {
   font-family: "TATSanaChon";
-  src: url('../fonts/TAT/TATSANA CHON-REG.TTF');
-  /*src: url('../fonts/TAT/TATSanaChon-Regular.eot');*/
-  /*src: url('../fonts/TAT/TATSanaChon-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/TAT/TATSanaChon-Regular.woff2') format('woff2'), url('../fonts/TAT/TATSanaChon-Regular.woff') format('woff');*/
+  src: url('../fonts/TAT/TATSANA CHON-REG.TTF'), url('../fonts/TAT/TATSanaChon-Regular.woff2') format('woff2');
 }
 @font-face {
   font-family: "TATSanaSuksa";
-  src: url('../fonts/TAT/TATSANA SUKSA-REG.TTF');
-  /*src: url('../fonts/TAT/TATSanaSuksa-Regular.eot');*/
-  /*src: url('../fonts/TAT/TATSanaSuksa-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/TAT/TATSanaSuksa-Regular.woff2') format('woff2'), url('../fonts/TAT/TATSanaSuksa-Regular.woff') format('woff');*/
+  src: url('../fonts/TAT/TATSANA SUKSA-REG.TTF'), url('../fonts/TAT/TATSanaSuksa-Regular.woff2') format('woff2');
 }
 @font-face {
   font-family: "TATSanaSuksaBold";
-  src: url('../fonts/TAT/TATSANA CHON-BLD.TTF');
-  /*src: url('../fonts/TAT/TATSanaChon-Bold.eot');*/
-  /*src: url('../fonts/TAT/TATSanaChon-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/TAT/TATSanaChon-Bold.woff2') format('woff2'), url('../fonts/TAT/TATSanaChon-Bold.woff') format('woff');*/
+  src: url('../fonts/TAT/TATSANA CHON-BLD.TTF'), url('../fonts/TAT/TATSanaChon-Bold.woff2') format('woff2');
 }

@@ -6,7 +6,7 @@
         <div class="col-4 cover-img-2">
           <div class="row h-100 justify-content-center align-items-center">
             <div class="col-12">
-              <div class="logo-box"><img src="../img/banner.png"></div>
+              <div class="logo-box"><img src="../img/banner.png" alt="banner"></div>
             </div>
           </div>
         </div>
@@ -73,12 +73,12 @@
       <div class="container">
         <div class="row d-none d-sm-block">
           <div class="d-flex justify-content-around">
-            <div class="p2"><a href="https://www.mof.go.th/th/home" target="_blank"><img src="../img/brand_logo/MOF.png"></a></div>
-            <div class="p2"><a href="http://www.fpo.go.th/" target="_blank"><img src="../img/brand_logo/FPO.png"></a></div>
-            <div class="p2"><a href="https://www.cgd.go.th/" target="_blank"><img src="../img/brand_logo/CGD.png"></a></div>
-            <div class="p2"><a href="https://www.newcb.ktb.co.th/" target="_blank"><img src="../img/brand_logo/Krungthai.png"></a></div>
-            <div class="p2"><a href="https://www.mots.go.th/" target="_blank"><img src="../img/brand_logo/MOTS.png"></a></div>
-            <div class="p2"><a href="https://thai.tourismthailand.org/" target="_blank"><img src="../img/brand_logo/TAT.png"></a></div>
+            <div class="p2"><a href="https://www.mof.go.th/th/home" target="_blank"><img src="../img/brand_logo/MOF.png" alt="MOF logo"></a></div>
+            <div class="p2"><a href="http://www.fpo.go.th/" target="_blank"><img src="../img/brand_logo/FPO.png" alt="FPO logo"></a></div>
+            <div class="p2"><a href="https://www.cgd.go.th/" target="_blank"><img src="../img/brand_logo/CGD.png" alt="CGD logo"></a></div>
+            <div class="p2"><a href="https://www.newcb.ktb.co.th/" target="_blank"><img src="../img/brand_logo/Krungthai.png" alt="Krungthai logo"></a></div>
+            <div class="p2"><a href="https://www.mots.go.th/" target="_blank"><img src="../img/brand_logo/MOTS.png" alt="MOTS logo"></a></div>
+            <div class="p2"><a href="https://thai.tourismthailand.org/" target="_blank"><img src="../img/brand_logo/TAT.png" alt="TAT logo"></a></div>
           </div>
         </div>
         <div class="row d-sm-none">
